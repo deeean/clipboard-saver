@@ -2,6 +2,9 @@
 name = "clipboard-saver"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+authors = ["deeean <margintop3498@icloud.com>"]
+description = "A simple clipboard saver"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
